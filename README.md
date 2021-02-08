@@ -1,19 +1,4 @@
-### Hi! I'm Parth 👋
-
-<!--
-**partheus/partheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋! I'm Parth
 
 - 🔭 I’m graduating this spring with a Master's degree in Information Systems! Hire me to build your websites and manage your projects.
 - 🌱 I’m currently learning a variety of JavaScript frameworks and libraries.
@@ -21,6 +6,10 @@ Here are some ideas to get you started:
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus&show_icons=true&theme=radical?&hide=issues,contribs)](https://github.com/partheus/github-readme-stats)
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/partheus)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/parthshiralkar/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://tofu.buzz)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='30'>](https://www.goodreads.com/author/show/15513612.Parth_Shiralkar)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='30'>](https://soundcloud.com/bhatji)  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=partheus.partheus)
