@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 📫 Check out my latest project: [Tofu Guide](https://tofu.buzz)
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus&show_icons=true&theme=radical?&hide=issues,contribs)](https://github.com/partheus/github-readme-stats)
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=partheus.partheus)
