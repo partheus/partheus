@@ -6,6 +6,7 @@
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus&show_icons=true&theme=dracula?&hide=issues,contribs)](https://github.com/partheus/github-readme-stats)
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/partheus)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/parthshiralkar/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://tofu.buzz)
