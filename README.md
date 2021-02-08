@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m graduating this spring! Hire me to build your websites and manage your projects.
 - 🌱 I’m currently learning a variety of JavaScript frameworks and libraries.
 
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus)](https://github.com/partheus/github-readme-stats&show_icons=true&theme=radical?&hide=issues,contribs)
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus&show_icons=true&theme=radical?&hide=issues,contribs)](https://github.com/partheus/github-readme-stats)
