@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Parth 👋
 
 <!--
 **partheus/partheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m graduating this spring! Hire me to build your websites and manage your projects.
+- 🌱 I’m currently learning a variety of JavaScript frameworks and libraries.
+
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus)](https://github.com/partheus/github-readme-stats)
