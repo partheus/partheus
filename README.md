@@ -1,6 +1,7 @@
 ### Hi there 👋! I'm Parth
 
-- 🔭 I’m graduating this spring with a Master's degree in Information Systems! Hire me to build your websites and manage your projects.
+- I currently work on the dev team of an awesome design studio based out of Portland, OR.
+- 🔭 I graduated this spring with a Master's degree in Information Systems!
 - 🌱 I’m currently learning a variety of JavaScript frameworks and libraries.
 - 📫 Check out my latest project: [Tofu Guide](https://tofu.buzz)
 
