@@ -1,9 +1,9 @@
 ### Hi there 👋! I'm Parth
 
 - I currently work on the dev team of an awesome design studio based out of Portland, OR.
-- 🔭 I graduated this spring with a Master's degree in Information Systems!
-- 🌱 I’m currently learning a variety of JavaScript frameworks and libraries.
-- 📫 Check out my latest project: [Tofu Guide](https://tofu.buzz)
+- 🔭 I graduated last spring with a Master's degree in Information Systems!
+- 🌱 I’m currently working as a web developer with a design studio!
+- 📫 Check out my latest project: [Tofu Guide](https://notparth.netlify.app/menu/)
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus&show_icons=true&theme=dracula?&hide=issues,contribs)](https://github.com/partheus/github-readme-stats)
 
