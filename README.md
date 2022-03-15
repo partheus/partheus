@@ -2,7 +2,7 @@
 
 - I currently work on the dev team of an awesome design studio based out of Portland, OR.
 - 🔭 I graduated last spring with a Master's degree in Information Systems!
-- 🌱 I’m currently working as a web developer with a design studio!
+- 🌱 I like plants
 - 📫 Check out my latest project: [Tofu Guide](https://notparth.netlify.app/menu/)
 
 [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partheus&show_icons=true&theme=dracula?&hide=issues,contribs)](https://github.com/partheus/github-readme-stats)
